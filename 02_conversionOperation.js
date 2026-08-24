@@ -1,8 +1,11 @@
-let score = 33
-
+let score ="33"
 console.log(typeof score);
-console.log(typeof(score));
+console.log(typeof (score));
 
-let ValueInNumber= Number(score)
-console.log(typeof ValueInNumber)
-console.log(ValueInNumber)
+let ValueOfNumber= Number(score);
+console.log(typeof ValueOfNumber);
+console.log(typeof (ValueOfNumber));
+
+let ValueOfString = String(ValueOfNumber);
+console.log(typeof ValueOfString);
+console.log(typeof (ValueOfString));
