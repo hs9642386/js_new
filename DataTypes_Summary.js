@@ -28,4 +28,4 @@ const myFunctrion = function(){
     console.log("Hello world");
 }
 
-console.log(typzf bigNumber);
+console.log(typeof bigNumber);
